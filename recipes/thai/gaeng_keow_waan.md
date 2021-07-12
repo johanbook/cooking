@@ -1,5 +1,7 @@
 # Gaeng Keow Waan
 
+Gaeng Keow Waan is a spicy green curry.
+
 ## Ingridients
 
 - Green curry paste
@@ -16,12 +18,14 @@
 
 ### Preparations
 
-- Juliana the red pepper. Slice the other vegetables
+- Julian the red pepper and slice the other vegetables
 
 ### Cooking
 
-- Use small amount of coconut milk with green curry paste to start curry. Let cook for 3-4 minutes.
-- Add remaining coconut milk and a large portion of water. Let cook for 4 minutes.
+- Use small amount of coconut milk with green curry paste to start curry. Let
+  cook for 3-4 minutes.
+- Add remaining coconut milk and a large portion of water. Let cook for 4
+  minutes.
 - Add vegetables and let cook.
 - Add palm sugar.
 - Salt and taste.

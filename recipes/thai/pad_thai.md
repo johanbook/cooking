@@ -1,6 +1,9 @@
 # Pad Thai
 
-## Ingridients
+Pad Thai is a classical noodle stir fry that typically derives its sweet taste
+from tamarind.
+
+## Ingredients
 
 - Rise noodles
 - Red onion
@@ -12,6 +15,7 @@
 - Bean sprouts (optional)
 
 Garnish
+
 - Roasted peanuts
 - Lime
 - Leaves of coriander (optional)

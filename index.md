@@ -1,7 +1,10 @@
 # Cooking
 
-This be cooking
+Welcome to my wiki on cooking!
 
 ## Recipes
 
-- [Overview](recipe/none.md)
+### Thai
+
+- [Gaeng Keow Waan](recipes/thai/gaeng_keow_waan.md)
+- [Pad Thai](recipes/thai/pad_thai.md)
