@@ -11,4 +11,5 @@ Welcome to my wiki on cooking!
 ### Thai
 
 - [Gaeng Keow Waan](recipes/thai/gaeng_keow_waan.md)
+- [Gaeng Ped](recipes/thai/gaeng_ped.md)
 - [Pad Thai](recipes/thai/pad_thai.md)
