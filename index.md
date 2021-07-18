@@ -1,13 +1,17 @@
 # Cooking
 
 Welcome to my wiki on cooking! All recipes are vegan.
-If recipe is not tasty and can be improved, please reach out!
+If a recipe is not tasty and can be improved, please reach out!
 
 ## Recipes
 
 ### Italian
 
 - [Lasagna](recipes/italian/lasagna.md)
+
+### Japanese
+
+- [Sushi](recipes/japanese/sushi.md)
 
 ### Swedish
 
