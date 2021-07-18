@@ -1,7 +1,7 @@
 # Cooking
 
-Welcome to my wiki on cooking! All recipes are vegan.
-If a recipe is not tasty and can be improved, please reach out!
+Welcome to my wiki on cooking! All recipes are vegan. If a recipe is not tasty
+and can be improved, please reach out!
 
 ## Recipes
 
@@ -12,6 +12,10 @@ If a recipe is not tasty and can be improved, please reach out!
 ### Japanese
 
 - [Sushi](recipes/japanese/sushi.md)
+
+### Mexican
+
+- [Quesadilla](recipes/mexican/quesadilla.md)
 
 ### Swedish
 
