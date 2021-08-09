@@ -19,7 +19,7 @@ and can be improved, please reach out!
 
 ### Swedish
 
-- [Kötbullar med brunsås](recipes/swedish/kottbollar_med_brunsas.md)
+- [Köttbullar med brunsås](recipes/swedish/kottbollar_med_brunsas.md)
 
 ### Thai
 
