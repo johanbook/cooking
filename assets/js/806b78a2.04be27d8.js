@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcooking=self.webpackChunkcooking||[]).push([[598],{5089:s=>{s.exports={blogPosts:[]}}}]);
