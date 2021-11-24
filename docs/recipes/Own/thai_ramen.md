@@ -1,6 +1,7 @@
 # Thai Ramen
 
-**Thai ramen** is my own recipe and is as the name implies a thai inspired ramen.
+**Thai ramen** is my own recipe and is as the name implies a thai inspired
+ramen.
 
 ## Ingredients
 
