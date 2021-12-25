@@ -1,7 +1,7 @@
 # Sushi
 
-**Sushi** is a classical dish of Japanese cuisine, usually containing raw fish. Since 
-this cooking wiki is completely vegan there will be no fish.
+**Sushi** is a classical dish of Japanese cuisine, usually containing raw fish.
+Since this cooking wiki is completely vegan there will be no fish.
 
 ## Ingredients
 
