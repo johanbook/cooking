@@ -10,20 +10,22 @@ least in Scandinavia). This is my (rather basic) take on the dish.
 
 - Vegan minced meat
 - Salsa
+- Tomato purée
 
 ### Serving
 
 - Tortilla
 - Jalapeños
 - Vegan mayonnaise
+- Vegan cheese
 - Peanuts
 - Cucumber
 - Corn
 - Bell pepper
-- Yellow onion
+- Red onion
 
 ## Instructions
 
-- Start frying vegan minced meat
+- Fry vegan minced meat. Add some salsa and tomato purée
 - Cut the vegetables
 - Serve it
