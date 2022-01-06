@@ -1,6 +1,6 @@
 # Quesadilla
 
-**Quesadilla** is a Mexican dish that is as tasty as easy it is to make.
+**Quesadilla** is a Mexican dish that is as tasty as it is easy to make.
 
 ## Ingredients
 

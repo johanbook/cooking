@@ -13,10 +13,11 @@ Béchamel sauce
 
 Meat sauce
 
-- Minced (vegan) meat
+- Vegan minced meat
 - Bottle of passata (sieved tomatoes)
 - Tomato purée
 - Onion (yellow)
+- Garlic
 - Carrots
 - Red wine
 - Basil
