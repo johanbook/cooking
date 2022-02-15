@@ -1,6 +1,6 @@
 # Celery
 
-**Celery** has a very pronounced taste.
+**Celery** has a pronounced taste.
 
 ## Usages
 
