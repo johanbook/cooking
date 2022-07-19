@@ -1,17 +1,11 @@
-# Lasagna
+# Bolognese sauce
 
-**Lasagna** is a staple dish of Italian cuisine.
+**Bolognese sauce** is a slow-cooked sauce that can be used to make
+
+- [lasagna alla bolognese](./lasagna_al_forno.md).
+- [spaghetti bolognese](./spaghetti_bolognese)
 
 ## Ingredients
-
-Béchamel sauce
-
-- Butter
-- Flour
-- Black pepper
-- Nugmet
-
-Meat sauce
 
 - Vegan minced meat
 - Bottle of passata (sieved tomatoes)
@@ -25,10 +19,6 @@ Meat sauce
 
 ## Instructions
 
-### Béchamel sauce
-
-### Meat sauce
-
 - Finely chop celery and onion. Grate the carrots. Fry for 5 min and stir
   occasionally.
 - Add minced meat and fry for another 5 min.
@@ -36,6 +26,7 @@ Meat sauce
 - Add passata and basil. Let cook on low heat for an hour. Taste, season and
   then cook for another 30 min.
 
-### Assembling the lasagna
+## Variations
 
-- The pasta in final layer should be covered in Béchamel sauce!
+- The minced meat can be swapped for red lentils. However, doing so the lentils
+  should not be added til the end of the cooking.
