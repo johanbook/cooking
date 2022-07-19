@@ -1,7 +1,7 @@
 # Pad Thai
 
 **Pad Thai** is a classical noodle stir fry that typically derives its sweet
-taste from tamarind.
+taste from [tamarind](../../ingredients/tamarind.md).
 
 ## Ingredients
 

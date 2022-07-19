@@ -12,4 +12,7 @@
 
 ## Instructions
 
+Fry the Oumph, add the vegan cream and Blackcurrant juice. Grind the juniper
+berries and add to the stew. Let boil until done.
+
 Serve with potato or rice.
