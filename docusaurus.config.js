@@ -30,6 +30,14 @@ const config = {
     ],
   ],
 
+  scripts: [
+    {
+      src: "https://analytics.johanbook.com/js/plausible.js",
+      defer: true,
+      "data-domain": "johanbook.com",
+    },
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
