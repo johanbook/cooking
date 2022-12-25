@@ -13,10 +13,17 @@ eat it for lunch and then eat the leftovers for dinner. My julboard consists of
   :(
 - **Sill**. A classical julboard features herring but instead we use tofu. This
   can also be store bought.
-- **Potatoes** Cooked potatoes.
+- **Potatoes** Cooked potatoes, mashed potatoes or potato gratin.
 - **Rödbetssallad** is beetroot. I have not tried any recipes here.
 - **Vörtbröd** is a bread baked on Vört and raisins. Should be served with vegan
   butter.
 
 For drinks there should be julmust, Christmas beer and schnaps (ginger shoots
 for those who don't drink alcohol).
+
+## 2022 Alterations
+
+During the Christmas 2022 we had the following additions:
+
+- **Brownsauce**
+- **Lingonberry jam**
