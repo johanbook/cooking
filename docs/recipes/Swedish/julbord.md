@@ -27,3 +27,4 @@ During the Christmas 2022 we had the following additions:
 
 - **Brownsauce**
 - **Lingonberry jam**
+- **Mashed potatoes**
