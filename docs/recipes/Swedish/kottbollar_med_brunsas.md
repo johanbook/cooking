@@ -5,11 +5,22 @@ classical Swedish dish made famous by IKEA.
 
 ## Ingredients
 
-- Vegan minced meat
-- Yellow onion
-- Béchamel sauce
+### Brown sauce
+
+- [Béchamel sauce](../Italian/bechamel_sauce.md)
 - Soy
 - Bouillon
+- Lingonberry jam
+- Black pepper
+
+### Meatballs
+
+- Vegan minced meat
+- Yellow onion
+
+### Serving
+
+- Potatoes (cooked, mashed or oven-roasted)
 - Lingonberry jam
 
 ## Instructions
