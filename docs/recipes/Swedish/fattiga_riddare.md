@@ -1,4 +1,4 @@
-# Fattiga Riddare
+# Fattiga riddare
 
 **Fattiga Riddare**, also known as **arme Ritter** in Germany, is a sweet
 breakfast dish. It is perfect for using up stale bread.

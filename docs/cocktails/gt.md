@@ -1,7 +1,7 @@
 # G&T
 
-**Gin and Tonic** (**G&T**) is a classic drink which is easy to make and exists
-in tons of variations.
+**Gin and Tonic** (**G&T**) is a classic cocktail which is simple to make and
+exists in tons of variations.
 
 ## Ingredients
 

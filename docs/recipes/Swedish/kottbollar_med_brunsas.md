@@ -17,6 +17,8 @@ classical Swedish dish made famous by IKEA.
 
 - Vegan minced meat
 - Yellow onion
+- Garlic
+- Thyme (I usually use dried thyme)
 
 ### Serving
 

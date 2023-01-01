@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-- 1 part light runtime
+- 1 part light rum
 - 1 part club soda
 - 1 lime
 - mint leaves
