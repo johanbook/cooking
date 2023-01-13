@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "https://johanbook.com/favicon.ico",
-  organizationName: "cooking",
+  organizationName: "johanbook",
   projectName: "cooking",
 
   presets: [
@@ -45,7 +45,8 @@ const config = {
         title: "Johan Book",
         logo: {
           alt: "Site logo",
-          src: "https://johanbook.com/fs/logo.png",
+          src: "https://johanbook.com/fs/logo_light.png",
+          srcDark: "https://johanbook.com/fs/logo_dark.png",
           href: "https://johanbook.com",
           target: "_self",
         },
@@ -62,6 +63,12 @@ const config = {
             position: "left",
             target: "_self",
             to: "https://johanbook.com/workout",
+          },
+          {
+            label: "Projects",
+            position: "left",
+            target: "_self",
+            to: "https://johanbook.com/projects",
           },
         ],
       },
