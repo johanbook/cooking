@@ -42,7 +42,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Cooking",
+        title: "Johan Book",
+        logo: {
+          alt: "Site logo",
+          src: "https://johanbook.com/fs/logo.png",
+          href: "https://johanbook.com",
+          target: "_self",
+        },
         items: [
           {
             label: "Coding",
