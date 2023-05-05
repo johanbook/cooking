@@ -7,7 +7,7 @@ classical Swedish dish made famous by IKEA.
 
 ### Brown sauce
 
-- [Béchamel sauce](../Italian/bechamel_sauce.md)
+- [Béchamel sauce](../Italian/bechamel-sauce.md)
 - Soy
 - Bouillon
 - Lingonberry jam

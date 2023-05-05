@@ -8,7 +8,7 @@ This recipe is still a work in progress and not yet suitable for use.
 
 **Béchamel sauce**, also referred to as **white sauce**, is a mother sauce for
 making many different sauces. It is used for making e.g.
-[lasagna al forno](./lasagna_al_forno.md).
+[lasagna al forno](./lasagna-al-forno.md).
 
 ## Ingredients
 

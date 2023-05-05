@@ -4,7 +4,7 @@
 eat it for lunch and then eat the leftovers for dinner. My julboard consists of
 
 - **Köttbullar**. You can make vegan meat balls using
-  [this recipe](./kottbollar_med_brunsas.md) (skipping the sauce).
+  [this recipe](./kottbollar-med-brunsas.md) (skipping the sauce).
   Alternatively, many stores sell vegan meat balls.
 - **Prinskorv** is a small kind of sausage. It can usually be bought prepared in
   stores.

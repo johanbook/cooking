@@ -5,8 +5,8 @@ cuisine.
 
 ## Ingredients
 
-- [Béchamel sauce](./bechamel_sauce.md)
-- [Bolognese sauce](./bolognese_sauce.md)
+- [Béchamel sauce](./bechamel-sauce.md)
+- [Bolognese sauce](./bolognese-sauce.md)
 - Lasagna pasta plates
 - Vegan Parmigiano Reggiano
 - Vegan cheese

@@ -2,8 +2,8 @@
 
 **Bolognese sauce** is a slow-cooked sauce that can be used to make
 
-- [lasagna alla bolognese](./lasagna_al_forno.md)
-- [spaghetti bolognese](./spaghetti_bolognese)
+- [lasagna alla bolognese](./lasagna-al-forno.md)
+- [spaghetti bolognese](./spaghetti-bolognese)
 
 ## Ingredients
 
