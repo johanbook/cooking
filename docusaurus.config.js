@@ -31,10 +31,6 @@ const config = {
   ],
 
   scripts: [
-    {
-      src: "https://johanbook.com/dreamdata-analytics.js",
-      defer: true,
-    },
   ],
 
   themeConfig:
@@ -62,12 +58,6 @@ const config = {
             position: "left",
             target: "_self",
             to: "https://johanbook.com/workout",
-          },
-          {
-            label: "Projects",
-            position: "left",
-            target: "_self",
-            to: "https://johanbook.com/projects",
           },
         ],
       },
