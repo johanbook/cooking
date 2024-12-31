@@ -1,5 +1,0 @@
-# Manhattan
-
-**Manhattan**
-
-## Ingredients
